@@ -1,0 +1,75 @@
+# PlanetTerp — professor Anwar Mamat
+# 21 reviews
+
+[Professor: Anwar Mamat | Course: CMSC433]
+I like anwar and he keeps class fun but the material is just kinda boring so it is hard to pay attention sometimes. The class feels like just memorizing a bunch of java libraries used for multi threading. Easy Class though and projects are not too bad.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Funny stories, nice guy. Class grades are pretty fair.
+Projects are kinda butt, and clicker questions suck, lectures are mediocre. I also hate slide trivia exams (which is what he gives)
+
+[Professor: Anwar Mamat | Course: CMSC433]
+I had Anwar for 433 and 330. He knows how to run a course well, curves fairly, and is generally pretty responsive to student concerns. I think he is a good standard that other UMD CS professors should hold themselves to. His slides are pretty good and his tests are fair.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Good professor that knows the material well. Mostly reads off slides but gives alot of examples which helped alot. TAs are very good and office hours provided alot of help on projects. Projects are standard and should be started when they are assigned.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Anwar is fine. He explains the material decent enough in lecture, but he moves so fast! It's really hard to keep up with him during lectures. Also, the exams for CMSC433 are kind of really hard. I aced every single project but I couldn't for the life of me manage better than a 71 on the midterm. I don't expect to do much better on the final. All in all, Anwar is just okay. Not the worst CMSC professor I've ever had but certainly far from the best.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Pretty good 400 class overall. I don't think Anwar is a good lecturer, but he's pretty accommodating by making clicker questions fairly easy and worth 5% of the final grade to redistribute from exams. Some projects were tough (akka), especially due a high amount of the grade being secret tests, but others were fine. Make sure you put time into them, since they're worth a lot, and if you do you should be able to get a good grade.
+I thought the midterm and the final were fine, since I found them to be somewhat modeled after old exams. Also, TAs were great; they were really responsive on Piazza (much more than other 400s) and helpful for office hours. Great slides, and the material itself is also quite useful. Thus, if Anwar is teaching this class, I'd recommend taking it with him.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Not great lecturing style IMO. Lots of "you know?" "this stuff" "this thing" "this stuff is tricky" "just read the JavaDoc". Little motivational content to introduce concepts, which I've always found very useful in CMSC. Absolutely flies through examples without prefacing them well. Much prefer Dr. Hicks or even Prof. Herman hyper-explicit lecturing style and projects.
+Projects are open-ended and almost guaranteed to be 75% or more secret tests. TAs are exceptional but projects will still take 15-30 hours for average student, which was hell for someone balancing career responsibilities and other CMSC4xx classes as well. Midterms were fair and lecture slides were good.
+Main complaints are lecturing style and project difficulty/disconnect from lecture material/lack of direction given in description.
+Do not let this review discourage you from taking 433 with Anwar if you enjoy his style or are simply... well... smarter than me. Anwar is cool but the class just did not resonate with me. I've heard he's pretty good for 330 though.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Second class with Anwar and he's a great professor. His exams are pretty easy for the most part since he emphasizes more on projects (which I 100% agree with). The projects in the class range from extremely easy (Hadoop and MPI) to challenging (Akka), but they're all good skills to know. I didn't attend lecture live as he uploaded the recording, and he does fly through the material, but the slides and GitHub repository provide enough examples to help you understand the material.
+
+[Professor: Anwar Mamat | Course: CMSC430]
+This may be the first semester he teach CMSC430 in 2024 Summer.
+The grading is good but the lecture have some problem. He spent too many time in the easy stuff and some core contents were omitted.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Not a bad teacher and the course isn't too bad either. It's 5 coding projects, one midterm, and one final project that was easy. There's also gradescope quizzes that aren't hard. Takes a while to grade though, and some of the descriptions for projects weren't that clear since they were written this semester. The midterm was also tough, most people didn't do well.
+
+[Professor: Anwar Mamat | Course: CMSC388A]
+Great prof, hard class. Also i'm convinced that Cliff and the evil cult of TA's are the cause of over half the class failing the first exam and quiz. Anwar nice tho :)
+
+[Professor: Anwar Mamat | Course: CMSC430]
+He's good. Knows what he's talking about, very approachable, and genuinely wants to see students succeed. He might not come off this way though if he doesn't think you're truly interested or even paying attention, but I think that's fair. Sometimes his organization does confuse me, especially so in this class where I already a little confused to start (low level coding is my weakness). Oh, and also, he's funny.
+For the class, please start projects early and try to understand the concepts because it's very satisfying. I would say this class is hard, but I know a lot of people would think it's easy.
+
+[Professor: Anwar Mamat | Course: CMSC430]
+Great teacher and an interesting class. This class is good for people who like lower level computing concepts and are interested in compilers. Anwar's teaching method lends itself well to the structure of this class, as he has a hands on approach to teaching.
+
+[Professor: Anwar Mamat | Course: CMSC430]
+Took this course over the Summer with Anwar. It's same old Anwar, I'm not a huge fan of the way he teaches, but I also don't typically go to lecture, so it's not something too important to me. This course in particular tends to be taught identically regardless of professor because they're based off some really amazing notes written by someone whose name I cannot seem to find written down anywhere. If you're comfortable with assembly from 216, and the concepts from 330, you'll do quite well in this class from the notes alone. Since it was the Summer, it was nothing but projects and a few easy quizzes. Even the midterms were just projects. We weren't able to do the actual final, because Anwar only had classes 3 days a week instead of all 5, meaning we weren't able to cover all the content. We just did the next project as the final instead, so it was incredibly easy but still weighted disproportionately towards our grade.
+Regardless though, it was an interesting class, and besides having to join the Zoom each day (since he took attendance through Zoom polls) it was pretty easy, even if you're not listening to a word he says. If you like the way Anwar teaches, or if you're very comfortable with writing in assembly, working with parsing and interpreting, and don't mind learning from the (quite comprehensive) notes, then definitely take this class if it interests you.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Do NOT take Anwar for 433. The projects are not well timed, he is a boring lecturer who just refers to his online notes verbatim to teach, and has assigned projects over break and makes them due the same day as an exam. The one thing that I can say about the class is that it is well structured and that he does provide notes, but other professors who have taught 433 before have done a better job at making notes than he has. Very disappointing to experience this considering the nice reviews I have seen and heard from other classmates.
+
+[Professor: Anwar Mamat | Course: CMSC430]
+Took him Spring 2025. First quiz, first exam, and project 5 had harsh distributions, but besides that the class was pretty forgiving. Projects were heavily weighted and time consuming, so I recommend starting early. Overall, no complaints - he's a funny guy who has an odd teaching style (literally just writes code in emacs the whole time and rarely opens his slides), but if you are choosing between him and Cliff, I'd recommend Anwar because his exams seemed to be easier than Cliffs this semester (even though the exams are roughly the same across all sections).
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Do NOT take 433, especially with him. It is about program validation, not concurrent programming, and it's a pretty useless class in my opinion. He is a really nice professor, but they added a final exam because he realized everyone is using AI for the projects. His lectures are really boring, and he usually confuses himself and the class because he messes up syntax when copying code from his notes in class. His online notes were way more helpful than his lectures.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Bro just don't take this class. Anwar's a nice person and is pretty accommodating & teaches concepts pretty well, but the material is just kind of ass and projects are confusing. Please don't take this class if you don't like proofs... I honestly have no idea why I even decided to take this one and it was one hell of a ride. There are 6 projects, a midterm, and a final. It's just too much. I thought the final was going to be simple enough but it really wasn't :( Projects build on top of each other so if you don't understand concepts you better fix that earlier in the semester.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+Not too bad for a 4xx level class. Had 6 projects, 6 quizzes, one midterm, and one final, plus a few attendance points. He recorded video lectures, but I learned more from reviewing the class notes and actually doing the projects, which were pretty though.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+This class might be the most useless class I have taken at UMD. The class isn't that bad, and the projects were fine. He added a final exam worth 25% (which wasn't too difficult). My only complaint is honestly with myself, as I feel like I wasted my time on this class. He gave 1% EC because 90% of the students completed the course eval, which was a nice thing. He took attendance at least once a week on average on GradeScope (worth 5% of your overall grade), so be aware. He does record lectures, so that's a plus. Just look at his website for 433 online and see if you could benefit from learning the material. In my opinion, it is the most useless class (but well, that just might be me, so...). Otherthan that, if you put the effort, it should be decently easy to get an A. Not like a free A class, but very fair to do well.
+
+[Professor: Anwar Mamat | Course: CMSC433]
+I took this course thinking it was going to be about multithreading and concurrency, which it is not anymore. The course itself is very project heavy, which if you do them all makes it rather easyish to get a good grade. He also made the exams pretty easy, in that he hosted review sessions and really hinted at what was going to be on the exam.
+As a professor I think his teaching style is better than people give him credit for, he is pretty funny and tries to make sure he's teaching efficiently as he can. He has a feedback form where you can send anonymous feedback, and was very open to feedback in OH. However, I think he knows the content in this course (Formal Verification) is not that interesting to most people taking the course, which makes it pretty difficult to teach. It also is very useless if for 99% of people taking the course.
+I thought the course content was interesting, and it made me think differently about programming, but yeah the content itself will likely not be useful if you just want to become a SWE. I would say if you like Math and Proofs, but also programming take the course.

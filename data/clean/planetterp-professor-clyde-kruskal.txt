@@ -1,0 +1,102 @@
+# PlanetTerp — professor Clyde Kruskal
+# 23 reviews
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+I strongly felt the particular content of this course is best (and easiest) learned through his whiteboard style rather than by book. Clyde covers a TON of ground in one lecture's time, especially when compared to professors who just read off a watered-down powerpoint from the book for their entire class "lecture".
+The big caveat is if you have a lot of trouble following (at least roughly) what he's doing, it won't be much fun for you and you will feel lost all lecture. Either way you need to write down literally everything he does. The material can be hard to grasp, but Clyde is really great at walking through an algorithm. If you take good notes and review them (possibly with another classmate/TA) you will eventually understand it.
+The other most important thing to do in this class is to ask questions when something isn't clear. In each class there's usually 2-6 little insights he forgets to mention, if you can catch those omissions and get him to explain them, you are a hero and it will be tremendously insightful for you and for every other student in the room. Although if you still don't get his explanation, you may need to just let it go- and if you took good notes, you should eventually understand it when you are reviewing them later.
+
+[Professor: Clyde Kruskal | Course: CMSC250H]
+It's very important to accept that Kruskal simply operates on a different wavelength from the average person. He's a true mathematician in the sense that he experiences life abstractly and disregards some aspects of interaction in favor of maintaining his flow of reasoning.
+The honors section was an intimate and fun experience, and I can see how Kruskal might be more difficult in a large lecture, or with students who are less enthusiastic or willing/able to follow the material. So I highly recommend the honors class for the abstract-thinker. The assessments and graded assignments are the same, but you get to spend half the time solving logical puzzles.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Kruskal is great in this course. His policy on homework is great (hand it in whenever, no real due dates). You just have to make sure to keep yourself on top of it so you don't fall behind. HW is good practice of the concepts.
+Exams are tough, but that's to be expected for this type of course. The questions are fair.
+Most importantly, Kruskal makes the course very interesting by motivating the topics very well. He is also very good at explaining stuff, but you have to make sure to ASK him questions. Otherwise, he will breeze through the material and you won't understand anything. He is decent for help in office hours too.
+My only complaint would be that he seems a little disorganized (just try visiting his office for example). However, he never lost any of my work, so this is not a big issue.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+This course was super fun! Easily my favorite course taken at UMD so far. It's a panorama of cool stuff in algorithms- I was continually surprised with intuitive tricks that are simple to explain but probably took months each to develop. They're priceless drips of distilled knowledge that you can't afford to miss if you're a CS major who plans to stop at your bachelor's degree.
+Kruskal communicates the course content clearly and with a refined taste for what's interesting. He seemed to care less about grades than most other professors, and gave a ridiculous curve. His marking is merciless though- if you do something wrong on a problem then you can expect a 0 or 50% grade for that problem.
+The tests were hard, especially the final which was very hard. He puts heavy emphasis on proofs.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+My only real complaint about Kruskal is that he's probably too smart for his own good. Unfortunately, that impacts his teaching significantly. It's frustrating when he insists on only proving things a specific way, and this is the only class I've ever taken in which I really felt like I had to ask questions.
+The exams were worth most of the grade which made it a little scary. But if you really do all of the homework on your own and study well, you should do well on the exams (at least relative to other people, which is what matters in this course with regards to your grade). Definitely go over all of the homework questions before taking the exams, and maybe do a few questions from the book.
+Kruskal is very accommodating and cares a lot about his students. He clearly wants to see them do well. I definitely learned a lot in this course and was adequately rewarded for my efforts. It just takes a lot of getting used to his teaching style, and several hours doing and reviewing problems to prepare for the exams.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Class is hard so do not skip any lectures. There were only 4 homeworks but they were challenging and were used on the exams.
+Midterm was 40%, homeworks 10%, final 50% of grade.
+Many people drop this class because of his no-regard-for-human-life grading style.
+I thought I'd fail with a 55 average on the midterm and final exam, but with his curve that was a B.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Kruskal is a great guy. I have had couple of classes with him, and I think he is definitely one of the better professors in the department. His class is entertaining and educational at the same time. Mind you, 451 is a hard class. You learn many complex classes of algorithms, and their mastery can only happen over time. The good thing is Kruskal understands this. His tests aren't super hard if you go through and understand his lectures well. He doesn't give very organized notes (mostly writing on board). Also, there were couple of times when he stumbled a bit solving some problem. But on the whole, I would recommend taking this any/all algorithms classes with him. Also has a decent grade curve. But go into this class prepared to see some really hard problems.
+
+[Professor: Clyde Kruskal | Course: CMSC250H]
+Dr. Kruskal is awesome. He is an excellent instructor and he presents the material in his own way (which many people may not like). He is a mathematician and he loves math. For the most part in 250H we did not cover ANY of the material that we needed to cover (we had to read everything from the book) However, we spent the time doing special projects that were so much fun and interesting that it was worth having to read the book for the actual course material. The projects were not graded but you get to argue with and against Dr. Kruskal and he is so much fun to argue with. Overall, Dr. Kruskal is really passionate about his math and he is very funny. (He is a little bit forgetful and rarely answers to emails, but he's just awesome!)
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Truly garbage. Doesn't teach anything--and what's worse--doesn't seem to care. Terrible organization and complete apathy.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+While the content of this course is interesting the organizing and implementation is severely lacking. Professors and TA's should respond to students in a timely manner but in this class there was seldom any communication with the students on basic course information
+
+[Professor: Clyde Kruskal | Course: n/a]
+Class is disorganized. Lectures with poor audio quality are used for actual class material to learn. Kruskal sometimes spends way too much time talking about jokes or other irrelevant matters. He is a smart guy and is nice, but the class could be run a lot better. Everything that people say about the tests is true. You can't pass this class if you don't put in hard work.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Had Dr. Kruskal for CMSC351/451. He is not perfect, but I absolutely disagree with his 2.87 star rating.
+He has a good sense of humor and teaches algorithms in a way that makes it very intuitive. He also really makes sure to answer student questions during lectures and is helpful during office hours. One of the biggest complaints is that there is a really long turnaround time before things get graded. This is not any of the TA's or Kruskal's fault. They are simply understaffed for the amount of kids they have to manage. Another complaint is that the tests are completely unfair. This was absolutely not true in 351, where the problems were literally just slightly altered homework problems and problems that reflected lecture material. The tests for 451 I felt were more difficult.
+Many people also leave the class frustrated because they can't seem to get a good grade by rote memorization of the materials. I think that the problems Kruskal gives out on the homeworks and exams are fair for a difficult algorithms class and focused on difficult problem solving. It is, however, very difficult for any teacher to 'teach' a class math maturity or problem solving ability. You are simply going to have to do extra practice practice from the textbook if you haven't done these kids of problems before.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+I took this class in Spring 2021. Typically, while most people say that your 451 grade with Kruskal is the same as your 351 grade with Kruskal, I feel as though your 451 grade may be lower. If you choose to take this class with Kruskal, be sure you know what you're doing...
+Pros:
++ The ridiculously long pre lecture videos from 351 are gone. The professor actually teaches new content during lecture time, making lectures highly informative.
++ He repeats most NP assignments from 351, so you can reuse your work
++ Professor is very chill regarding deadlines. Often, he would extend a homework deadline by a few dates simply because someone asked nicely. Our midterm deadline was actually moved by 2 weeks.
+Cons:
+- The quizzes from 351 that helped gauge your progress are (mostly) gone. We had a few at the beginning of the semester but they stopped afterwards
+- There are no written solutions given for any homework assignment (not just NP). This is especially detrimental when exams are often based off of homework assignments. While there are review sessions that go over homework assignments, they lack the formal rigor that a written solution would have. Also, there is no guarantee that the every problem is covered in these sessions. It is especially baffling that we do not have solution keys when this was done so often back in 351.
+- The live lectures are often very free-flowing and not directed without the slide set. This can make it difficult to determine what to take notes on.
+- No review material is given for either the midterm or final. The homework assignments do not make up for this. As a result, it is very easy to lose lots of points of exam questions where you may actually understand the concepts at hand. Again, exam review material is something that was easily made for 351, so I am shocked that they couldn't apply the same processes here to make it.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+This is my second review of kruskal, the first being for CMSC 351, posted on 12/20/2020 (search for "tybug"). I've changed view slightly; I think he's actually quite a good lecturer, but the class is far too disorganized to get anything above 3 stars, similar to 351. I also didn't learn the things I was most excited for in this class: proving algorithm correctness (formally, not hand waving with a certifier) and learning how to come up with algorithms, not just analyzing existing ones.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Had him for 351/451. Got a B+ in both classes. Clyde is extremely lazy. When asked to go over some homework problems he may flat out refuse because it's too much work. Best thing you can do is form study groups and learn from other students. Pretty cool guy overall.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+There was no syllabus. Midterm topics were decided the day before the exam. The location was also announced the day before the exam. Homework was taken from Laxman's class (Laxman's lecture recordings were a lifesaver). Final exam was copied from Laxman's final, with parts removed because lectures couldn't keep up with his section.
+I got the impression that there is a feedback loop of lack of engagement between students and teacher.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Going into this class knowing it was going to be a shit show prepared me well. He made the midterm into hws which was dope. He also split the final into an in person and a take home. As long as you go to at least one lecture a week you should be fine.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Took this class spring 2024 mainly for the meme and I wasn't disappointed. Took him a solid month to get his laptop fixed at the start of the semester. No midterm so everything was dependent on the final (split into two parts). Couple of homeworks here and there and he's super lenient on when you turn them in. Homie is just here to secure the bag and I'm all for it.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+I would recommend him for 451. He's very disorganized but considers that when giving out curves and exam(s). You'd have to understand the class independently but would need to worry little about exam difficulty or the types of questions on there. He might give great practice questions or reuse homework questions for exams. You shouldn't worry too much if you only care about passing when taking him.
+
+[Professor: Clyde Kruskal | Course: n/a]
+He has good qualities, but if you are on the fence deciding to take a class with him from what you have heard, then maybe you want to know the bad parts… For CMSC351, he could scope the material, so it matches the intention of the course better. His material/videos/slides are ok for the sorting algorithms, but even some of this is disorganized. The material for the last third of the semester, its related homework, and the 3rd exam itself were a bit of a disaster. He has an intention to invoke interest in algorithms but is aimless at times and lectures can lack focus. For example, one class was just a problem that involved a protracted simplification to an identity, where he fumbled through a lot of math, and I don't think anyone was even trying to follow along by the end. It wasn't a problem you wouldn't be able to put on a homework assignment, much less a test. If he were more professional, he would have had it written up and just presented as a point of interest, instead of making everyone suffer solving it on the fly. The NP-Complete material also needs to be reworked to be less goofy and better scoped to a 300-level class where you are focusing more on laying a foundation than left field theoretical material wasn’t even presented well. "Sometimes" to make exam questions hard, he just made odd questions. I assume it was to make you think, but it’s just off.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+The lectures are fantastic, but the organization is truly horrendous. How does a professor forget to give a midterm?
+But the lectures are fantastic, I feel like I learned a lot from this course, and I absolutely do not regret taking it with Kruskal at all.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Genuinely, he's the worst professor I have had during my time at UMD.
+To start, we went the entire course without a syllabus, so even as I write this after taking the final, I do not know how much different assignments are worth toward the final grade. Also, he isn't responsive whatsoever on Piazza; the only reason we knew which topics were covered on the final exam was because another student posted an exhaustive list of them. Clearly, he does not care about this course or the students much at all.
+I won't dwell on his teaching style since I sort of stopped going to class eventually, but he just sort of rambles on and will eventually end up orating an entire algorithm aloud without writing much of it down. Oh, and when he does try to trace through an algorithm, he'll either confuse himself or write so sloppily that nobody (including himself) knows what is on that paper.
+We had roughly 7 HW assignments, which were generally quite short. There was one midterm in the middle of November (??), which was about the closest thing to a circus I've ever seen. Let's just say the average was something like a 50% with a standard deviation around 20%. The final was even worse: he showed up late to a 4 PM exam, where we didn't even have the correct room reserved and had to collectively move to another room, which we were kicked out of early because another class had something in there.
+Between the poor teaching and absolute disorganization, a 5-year-old could improve upon if they taught this class, I regret even taking the class and especially with Kruskal.
+
+[Professor: Clyde Kruskal | Course: CMSC451]
+Kruskal does not care about the class or the success of his students at all. His lectures are disorganized and extremely difficult to follow, making them utterly useless. He did not provide a complete syllabus for the course. He does not provide sufficient study material for exams, and the median for the midterm and final were 46/100 and 63/100, respectively. He is incredibly strict on giving partial credit on the exams, and he ended up having to award free points for a question on the midterm due to it not making sense (he literally admitted he asked ChatGPT to provide him with this question). He is incredibly unresponsive and lazy - final grades were due December 23, and we received the final exam grade on January 5 (still no final course grade).
+This class was the worst I've ever taken at UMD; please avoid Kruskal at all costs.

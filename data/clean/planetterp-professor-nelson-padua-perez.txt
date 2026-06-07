@@ -1,0 +1,277 @@
+# PlanetTerp — professor Nelson Padua-Perez
+# 70 reviews
+
+[Professor: Nelson Padua-Perez | Course: CMSC132H]
+Great professor, awesome person.
+If computer science is not your thing, this is the best professor you can have. He explains every concept thoroughly and tests you only on what he goes over in class. I'd highly recommend going to class because if you don't, the powerpoint slides will seem really disjointed and incoherent, but in class he explains everything.
+Projects are extremely reasonable and are very relevant to what you're doing in class. Quizzes mimic the worksheets he gives out. If you have a problem in the class, USE YOUR RESOURCES (professor, TAs) because they can immensely help.
+Makes some funny jokes that lighten the mood of his class, creating a very comfortable environment.
+The only complaint is that the end of the semester is pretty rushed in terms of material. He goes over many design patterns, sorting techniques, and algorithm strategies very quickly, and you're expected to have a basic understanding of ALL of them on the final exam.
+
+[Professor: Nelson Padua-Perez | Course: CMSC122]
+In all honesty, I don't know why everyone is praising Nelson. Maybe it is because they didn't have him for CMSC122. Seriously, don't take this class. It is just a bunch of unneeded stress.
+Nelson is the first teacher that I've ever had that actually discouraged asking questions. I asked him reasonable questions during lecture and he not only didn't answer them, he makes an example of me in front of the class.
+He also teaches the class as if it is a bunch of grad students or something. He goes super fast and will once in a while ask us if he is going to fast. When I told him he was, he proceeded to go at the same pace.
+He is also very inaccessible. He often ignores emails or sends back nasty messages saying things that frankly, I don't understand. The TA's also don't show up to class so when you go into office hours (which also suck) you don't know who they are.
+I went to a lot of the lectures, but I found myself learning more from a friend in a 2 hour period than I did all year with him.
+I noticed that computer science is a thing that comes natural to some and not to others. If you are like me and know nothing, seriously reconsider taking this class.
+
+[Professor: Nelson Padua-Perez | Course: CMSC122]
+He's a good professor and will take every single question you have. His jokes are hilarious the first few days, but then he starts to recycle and it gets old and awkward fast. Which is fine because he really does break down the material into manageable pieces for someone like me who has never done a bit of programming in my life.
+There are quizzes but he tells you when they are. He threatens pop-quizzes sometimes because a few weeks in no one listens to him anymore because he moves on to miscellaneous and useless topics after JavaScript, but he never pulled it.
+Make sure to ask him questions in class though because once that clock strikes 1:50 (or whenever the class ends), he is outta there. Won't answer your questions and isn't helpful in office hours. Go to the TA's for that, and that's what he tells you.
+I'm taking this as a programming requirement for my math major so if you need one and want to do minimal work, take this course with Nelson.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+Nelson was funny, but eventually it got really annoying, and was a waste of time. For a DCC class, this class was a lot of work, considering that most of us don't have programming experience. He's nice and helpful though, so if you enjoy a joker and comedian, Nelson might be the professor for you.
+
+[Professor: Nelson Padua-Perez | Course: CMSC122]
+This is by far the worst class at any level of education I have ever taken in my life. The syllabus did not describe the guidelines in the class at all. It just listed that there would be projects at some time during the semester but students were not informed of when projects were due until they were assigned. The professor also assigned a major assignment each week about halfway through the semester. I never had a break from this class. I was always either working on a project or studying for a test or quiz. I understand that there will be assignments, but I never had more work in any class of college so far and I have taken some 400-level classes.
+When I had questions about some of the assignments, I would go to both the professor and the TA's office hours. However, once I was there, I received no help. I was told to look over the powerpoint slides again and then turned away. My questions were not answered at all.
+The lectures for this class were incredibly boring. The teaching style was horrible. At the beginning of the semester, Nelson said he did not care what students did during his class. Yet throughout the semester, he constantly called out students for talking, texting or typing on their computer. His lecture style was not engaging at all. It was so hard to focus and he did not gear the information at all to people who are not great with computers like myself. Whenever students asked questions, his answers were not helpful at all.
+Worst class ever. Do not take this if you are not great with computers and are not a computer science major.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+I had Nelson for the first time in a winter course on PHP (cmsc389p). I loved the class. I highly recommend it. Some of the reviews here complained about Nelson's teaching in class, but the problems with these critics are that Nelson teaches such easy topics (CMSC131, CMSC132, CMSC122 for non majors, CMSC198 for non majors), and other ridiculously easy classes that he doesn't have to spend all of class lecturing "int x = 3;" and basic syntax to you. He's funny, approachable, and will be a great teacher as long as (in his words) "they pay me enough". Great guy. Sign up quick, because his classes tend to fill up.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+The first day he had me laughing so hard, i knew it was going to be a good semester. Hes really great at explaining tough concepts, extremely helpful if you go to his office hours, very patient with students who do not understand the material, and very funny. Its rare to have a teacher that can make the class laugh every single lecture. Awesome professor.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+Great teacher. He is very straightforward and posts all the powerpoints used in lecture online. There are also weekly study sheets on the class website that I found helpful for our quizzes and tests. Nelson also cares about his students, and he is very good at communicating via e-mail and addressing student concerns. He's also a pretty funny guy, and will tell jokes to make class more interesting. Just pay attention, because if he sees you using your phone or going on facebook he will call you out on it in front of the whole class!
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+Nelson is an excellent teacher for thsi class if you have programmed before. Otherwise, the pace of the class might be rather brisk. Sometimes he does not explain certain material, and asks you to go to his office hours, which apparently he doesn't give a shit about. On the bright side, he is an extremely funny guy, but he has his days, like some days he is 100% business, and other days he is just cracking jokes and you don't learn shit. He is very understanding in projects, and will give you extra time if you truly need it. Overall, an extremely friendly guy, but if you get sidetracked, he will pick on you in front of everybody.
+My opinion? Take this dude, for whatever class he teaches.
+
+[Professor: Nelson Padua-Perez | Course: CMSC132H]
+Pretty easy class. Projects could get a bit tricky, but tests and quizzes were not a problem at all. Starting the projects early and getting them out of the way is a good idea.
+Nelson was encouraging and helpful the few times I have approached him outside of class. As a teacher, he did a pretty good job explaining concepts. No complaints here.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+I took CMSC198J over winter term with Nelson and absolutely loved it! He explained concepts very well and gave us a lot of time to practice programming while he was around to help us. This class was an excellent way to finish my Comp-Sci requirement, and the winter term set-up gave us a lot of face time with Nelson. He was very funny and very helpful and appreciated any student who actually made an effort to do the practice programming challenges. Some of the projects took a lot of time, but I found them fun--like solving a puzzle.
+Nelson was an awesome professor and also wrote me a great review for study abroad. If you are a motivated student with a sense of humor, I highly recommend his class.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+This is probably the hardest I have ever worked for an "elective" course, but I really did enjoy the class. It says it is for beginners but Nelson covers a lot of difficult material. I had background in some web programming so I did alright, but the people without any experience seemed to struggle. I would take it over again just for him, he's worth coming to class! If nothing else, even if I was so behind I wanted to cry, Nelson made class interesting and fun.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+His project descriptions are full of grammatically errors and make absolutely no sense at all.
+Every single minute of his lectures, he interrupts himself to tell someone to stop talking even if they aren’t talking. This makes it difficult for us beginners to focus on what he’s saying since he keeps on interrupting himself mid sentence.
+If you’re good at coding, sure, take his class. He’s funny and makes a ton of jokes.
+But if you’re a beginner, beware. His inability to teach the content in an easy-to-understand way, coupled with his convoluted project descriptions, will give you headaches and nightmares.
+
+[Professor: Nelson Padua-Perez | Course: CMSC389N]
+This is my third time having Nelson as my CS professor (I had him for cmsc131 and cmsc216), and he's growing on me. He makes so many weird/painful jokes in class which makes it difficult for me to focus, but also keeps me awake so that's good haha.
+CMSC389N was an alright elective. Midterms were easy as hell and the final probably will be too, but there's a ton of written code required. We had a group project where we had to use php/html, javascript, and bootstrap and that was actually pretty neat and a good group learning experience.
+This is a great class for anyone looking to get into php/javascript and web app platforms, or databases. I ended up despising web dev this semester, but it was a good experience to learn some php/html, JS/JQuery, and SQL in case I have to use it in the future... plus Nelson is a laugh, haha. Good luck!
+
+[Professor: Nelson Padua-Perez | Course: CMSC389N]
+Currently in his 389N class now but this is my third straight spring semester with him as a teacher. Had him two years ago in 132, and last year in 216. So this review will cover all those classes.
+132: First time having a class with him and my god he was crazy funny and just all around cool. People don't like him because of his jokes but he does that because he believes that students can only focus for a short period of time and need to take a small break before focusing on the lecture again. I find this VERY effective! He is a really effective teacher. I got a C in 131, barely survived, and when I took Nelson for 132, I had a whole new understanding of the material that was way more invaluable from studying java the previous semester. First time taking his exams at this time as well and he basically makes his real ones the same flavor as the practice exams (because they're all old exams). Naturally he makes the final harder and a little more different but it can be done. 132 was my favorite semester at UMD and nelson was a HUGE part of it. Made me happy to be a CS Major.
+216: Ok so i had to retake after fucking it up the semester before with Herman. Most of what I said about 132 can be repeated here as well. Old exams follow the same style as the ones he gives you. The projects, yes are daunting and make you stress a little bit but with a little tenacity it can be done. he made 216 a lot easier for me after Herman ruined it for me.
+389N: It's my most favorite class of the semester. Despite the time its taught in the mornings any class with Nelson is a blast and this class is his "child" so to speak. It's web dev which is right up my alley and his passion as well. The first exam was really really (and i mean really) easy. And the projects i can finish in a matter of 2-3 days depending on how much time i spend on them. Unless Nelson offers more classes or teaches more in the upper levels this will most likely be my last semester with him as a teacher :( It was well worth it all three times. He makes you proud to be a CS major.
+
+[Professor: Nelson Padua-Perez | Course: CMSC389N]
+He's a very funny professor who actually provides a good CS course. His projects are very reasonable, and he even gives code example to help with the projects. Tests are very easy, you just have to practice his old exams that he provides. I never got lower than a B- taking 3 of his classes. CMSC131, CMSC132, CMSC389N.
+
+[Professor: Nelson Padua-Perez | Course: CMSC389N]
+This guy is basically your favorite high school teacher as a UMD professor.
+Really, really good dude. If you ever have any problems while you're taking his class, you can go to his office hours and talk to him about it and he will do his best to work through those issues with you. He seriously, legitimately, actually cares about his students, which is something you don't see very often.
+As much as I'm tempted to give him a 5 star review, I can't just because he's not a great lecturer. He's funny in class, but he gets a little off-topic and distracted a lot, so a lot of what you learn from him, you have to learn from his slides outside of class. He makes this super easy though, because his slides are great and he records all his lectures on panopto, so you can go back over things if you missed something.
+All in all, he's one of my favorite professors I've had here and if you get a chance to take a class with him, do it. You won't be disappointed as long as you actually take the time to talk to him and get to know him.
+
+[Professor: Nelson Padua-Perez | Course: CMSC132H]
+Great professor. Funny and covers the material well. Class is hard though.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+Nelson is a great professor who I'd really recommend for your first ever CS class.
+He goes through the material throughly and provides plenty of examples during lectures to help you see the actual effect of the concept he is teaching.
+However, if you want to do well in this course, please please please start your projects early so that you have more time to submit and seek help from TAs during office hours(He also constantly emphasizes this point).
+Use the lecture slides to study and you'll do fine on the tests.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson made this course easy, and he knew it. Absolute king. I went to lecture, but you could easily get away without ever watching lecture. A lot of stuff you can find on the internet or in the lecture examples. I was a bit worried about this course because I found his 131/132 courses to be tricky at times (especially with exams), but Nelson kept this course very straightforward and minimized exam difficulty. I have nothing bad to say about this course except for the fact that I wish it provided more depth on practical skills. We only got into Node towards the end. However, part of what made this course easy was the lack of depth so yk... But yeah, def a chill elective with a wonderful prof!
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+I am taking this course during the fall of 2022.
+Nelson is the GOAT. Genuinely an amazing lecturer and an even better person. I wish he taught more upper-level classes so that I can take more classes with him.
+Always keeps the class engaged by making funny jokes.
+Amazing teaching skills, he discusses a topic and then immediately shows an example.
+Records lecture and immediately posts them. Attendance is not required unless it's exam day
+Exams are extremely fair, nothing scary.
+Projects are not super challenging but do not wait till the last minute to implement them.
+AMAZING PROFESSOR MUST TAKE!!!!!!!!!!!!!!
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Epic class, Epic professor. Everything is set up so perfectly. Attendance is optional. All resources in one place, reasonable exams and projects. Take this course if it all fits your plans.
+
+[Professor: Nelson Padua-Perez | Course: CMSC133]
+Fair course, faster paced 131
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nice person and good professor overall.
+This lectures were good and his projects were fair.
+He understands how stressful college can be and trys to accommodate.
+Only complate is that sometimes his exams material we have just learned and his review guides have a lot of topics which never actually get tested.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is very understanding and lenient on due dates. Highly recommend the course. Low stress while still getting a background in web dev.
+Doesn't require coming to class and records all lectures
+
+[Professor: Nelson Padua-Perez | Course: CMSC133]
+This class is basically cmsc131 but you just meet less. I don't think it was a particularly easy course but I would say it was fair. As an average student, I did have to spend some time in office hours. Do not start the projects late. Nelson was a really kind and helpful professor for this and even extended some deadlines for us when we requested him to do so. Overall, you should be ok if you put in effort in this class
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+You need to take this class an elective with Nelson.
+Nelson is the best. Period.
+There are 3 tests and he gives you a test from the previous year that is basically the same thing, with different numbers.
+The projects are all super easy and straight-forward, while also making you learn the topic. He also gave extensions for almost every project which was always a nice surpise.
+I wish we spend less time on html in the beginning and spend more time with React/Angular, but overall, great class and great teacher.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is the chillest professor. He understands students needs and teaches important material. This class was very easy though. Projects are mostly changing things from the examples he has in class. The tests are a lot of info to memorize but I found that it wasn't graded so harshly.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Straightforward and funny professor who teaches you the fundamentals. Great for people getting into web development. I would recommend Nelson 100% for CMSC335
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is great. He's really funny and understands student's struggles. 335 was a very useful class, and extremely manageable. Projects were basically just adapting what examples he did in class and there was no final exam, just a final project. Would definitely recommend.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is a very chill and funny professor. Lectures are recorded and projects and exams are very straightforward. The course covers express, node, and MongoDB, so you do learn some valuable information as well. Definitely recommend taking this course.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Great class! Good if you want an introduction to Web Development. Also good if you need an extra CS class that's not too difficult or time-consuming.
+Lectures are optional and if you skip them you'll be fine because the material is all online. The exams were easy and the projects were easy also and not too time-consuming.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+This class was phenomenal! Genuinely the most enjoyable CMSC course you can take at UMD. Projects are very manageable, exams are quite easy if you run through study guides, and you do not have to attend class at all! If you make an effort to soak in the course material, you will learn a ton of applicable skills and it's an easy resume booster, you learn a lot of tools in such a short time. (I suggest working on the final project alone or doing something grand so you can put it on your resume, I did a personal portfolio as my final)
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+I took CMSC335: Introduction to Javascript with Nelson over Fall 2023 as a CS elective.
+You MUST take this course. It is actually useful and sometimes even fun. Nelson is of course, classic Nelson.
+Please also take this course alongside TWO other CS classes because the workload for this course is negligible. It is easily balanced on top of taking CMSC330 and CMSC351, for example.
+Records lectures, nobody shows up to class, I personally never watched the lectures but I did fine.
+Nelson was terrible for CMSC131 (kind of expected because he does not like the subject so much and finds it boring, something to "just pay the bills") but he was great for CMSC216 and CMSC335 (both of which he likes), I cannot recommend him enough.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Super nice professor who's very fair in his exams and projects. He's also hilarious and makes lectures entertaining.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is as awesome as always. Take this course over all the other electives. You actually learn a good amount and become competent in website building at the end.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is a friendly professor for sure. He recorded lectures and posted slides so in-person lectures were optional. Midterms are fairly easy, and you can easy earn a A/B by practicing the old exams. The projects are easy as well. I'd definitely recommend it for students who want to learn web development.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is simply incredible. He is very chill, kind, and funny, all while being a great instructor. His exams (very fair), projects, and lectures are the best!
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+The class is easy and Nelson is a great lecturer, he makes it very fun. However, you can't talk in class or he will call you out so if you want to do that then just watch his lecture videos.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+His class is extremity disorganized and a lacks clarity regarding exam content. Despite the absence of guidance on exam topics and the withholding of practice exams, students are left to navigate a frustrating academic experience devoid of support. For exam 1, the main coding question had content from Exam 3. He misguided all of his students.
+
+[Professor: Nelson Padua-Perez | Course: CMSC133]
+Had 133 with Nelson. 133 is basically the same as 131 but with a smaller class (around 20 people) which was helpful for questions. At the beginning of the semester you start somewhat ahead (skip intro stuff like what classes, fields, methods are), and you may be one project ahead than 131, but in the end you take the same exams. We took the same exact exams, in the same exam rooms as 131 with all the other 131 students but they just direct you to hand your exam to a specific TA at the end.
+Worth it to take 133 just for the smaller class size, definitely take it if you got a 4 on AP CS A
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Terribly organized class. You learn nothing. Not fun.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+You should either attend lectures or watch recordings if you want to learn. It is actually a pretty useful class. Youll learn a lot about web development. I was taking 20 credits so I barely focused on this class. I just took it for some filler cs in my schedule. If you try even a little bit, you can easily get an A. Exams are basically the same as sample exams, just make sure you review and actually understand everything on the sample exam. The projects are pretty easy as well. There is no final exam, just a final group project.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+His exam materials are all included in his bullet points for exam topics, which I thought was fair. The class was fun and chill, and projects were fair and easy. He also removed the last project just so we could have more time to do the final project/study.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Liked this class because I really learned a lot stuff from it. His exam materials were all included in his bullet points for exam topics, which I thought was fair. Project were fun and easy as well, and the final project was a very interesting one to me personally. Nelson, overall, is a pretty good lecturer, he is very funny, kind, and he cares about his students a lot. I recommend everyone take this class.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+super chill course, especially for senior year :) only downsides sometimes were exams having coding content from other exams (ex. exam1 having the content from previous exam2s, exam2 having content from previous exam3s), but all the topics on exams were always outlined and stuff so it was fair in that regard. not bad at all and would 100% recommend!
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Not the best teacher,he gave sample papers for exam 1 and asked major coding question(near 70 points) from other exam.Just goes through code examples,very hard to understand his teaching plus not very funny jokes during class.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is a good teacher and very funny. he cares about the content a lot. This class is very fun and very useful for getting started with JavaScript and web development. Would definitely recommend. That being said, exam 1 was kind of a mess because it was not like the sample exams even though he said it would be. The rest of the exams and projects were straightforward. Definitely take him and this class, just expect to put some work into it if you want an A.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+This class was chill but it’s pretty useless. It’s missing key elements that are useful in modern web development such as typescript, react, and relational databases. The class material is dated to like 2015 at best. Expected much more for the $$$ we are paying in tuition.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+It was a fine class. Content is not difficult but his exams can be tricky. The good thing is his exams are similar to practice (structure wise). I think some of the point distributions were unfair though. The big change I noticed from his other classes and this is the powerpoints are very bland. There wasn't really enough content on them to answer questions. So it forces you to watch the lectures or go to class (obviously most choose to watch lectures). That being said I think if you learn content from the practices and project you can set yourself up for at least a decent grade.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Since I already had experience with web programming, this was one of the easiest CS classes I've ever taken. Nelson doesn't require attendance, so I showed up only for the midterms. He provides many resources to use when studying so you're never unprepared. One neat thing about the final project is it's up to you to design and implement it.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson is knowledgeable and teaches the material decently but he is unprofessional. He often distracts from the material and embarrasses students, like calling out a student for her insulin pump beeping. He shouldn't have to make jokes at the expense of a student to engage his class because not every student is comfortable being put on blast in front of the whole class. This behavior discourages students from coming to class and creates an uncomfortable environment for those that he picks on and students that have to watch. He does grade fairly and records lectures which is nice. He seems to care about students a lot but continues to act rudely towards them.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+Lectures are hard to pay attention to since he keeps going on tangents, but his practice exams are nearly the same as the actual exam. Super easy to get high scores for exams so they aren't stressful. Projects were annoying, though, until I figured out that I could just go to office hours whenever I wanted and the TA's would help me debug my code. That made projects a lot easier and less stressful. This class is pretty easy once you figure out the strategy (go to office hours as much as possible and do practice exams before every test). The final was difficult though, but it didn't matter since my score was already so high from projects and tests. Easy teacher, good life.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+I don't really understand all the hype around Nelson; he comes across as a condescending teacher. For 335, the first midterm felt like a chore, requiring you to memorize a bunch of random information. The only effective way to prepare was by studying previous midterms. For fall 2024, our midterms were nearly identical to those from the previous spring, but they’re always subject to change—spring 2024's midterm, for example, wasn’t like fall 2023's. Our semester got lucky with similar midterms, but overall, you don’t learn much in this class.
+I was in the 8 AM section, and while I didn’t mind the early timing, Nelson's lectures were quite boring. He often makes jokes and gets off-topic, which isn’t what I want to deal with at 8 AM. It feels like he doesn’t fully understand the material he's teaching. When asked for specifics, he often can’t provide clear answers. If something in his code doesn’t work, he doesn’t seem to know why.
+I already knew the basics of HTML and CSS but wanted to learn more about JavaScript and MongoDB. Unfortunately, I was disappointed—Nelson simply gave us the code for those topics without explaining how the systems work. The final exam was super easy and almost identical to Project 5. You could literally reword that project and still get full points on the final.
+The TAs are often PhD or master’s students, and they’re difficult to work with. They don’t provide helpful answers most of the time. This class is definitely worth taking if you’re in it for the grade, but it has its downsides. For example, the midterms aren’t given during class; instead, they’re held at 6:30 PM in a different lecture hall. While I understand Nelson’s intent to prevent one section from sharing answers with another, this setup is inconvenient. I would much prefer taking the midterms during class.
+Overall, I think 335 needs to be restructured. It feels outdated and poorly designed. We had to learn things from JavaScript ES5, which is deprecated—why bother teaching it? I wish they’d reduce the focus on CSS and introduce more relevant topics, like React, into the projects. A more modern framework would make this course much more worthwhile.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Not as easy as I would've thought, but still not very difficult. In terms of difficulty, the projects are easier than his 216 class, and instead of a final you get an easy final project, but the exams are about the same difficulty. Still do not slack off with the projects and make sure you study the past exams and focus on the most recent one
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Probably the easiest 300/400 level course in the CS department. If you put effort in not falling behind and starting the projects early, you will succeed. Nelson is great at explaining concepts when he’s not joking around. My one complaint is that I wish he didn’t joke around as much, but that wasn’t a big deal. I just watched the lecture recordings since you can skip around and speed up the vids. Great prof for an easy and useful class.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+nelson markets the class as "the easiest a you'll ever get in cs", and he isn't wrong per se. the projects are fairly straightforward (and the majority of the code for them can be found scattered across his lecture examples), although i know some students had issues with mongodb, which was in the last project so i'd definitely at least set up your projects early to troubleshoot potential issues. the exams for fall 2024 were also very similar to spring 2024, although spring 2024 was completely different from fall 2023, so take that how you will. honestly, this class is pretty chill if you're just looking for an upper level cs course, but is also very basic in what it covers (html, css, js, node, express, mongodb). nelson himself is the goat however so 5 stars
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Truly a great class! Nelson's expectations are always fair and clear. Projects are fun and straightforward as long as you know the content from the lecture. The lectures are recorded, and attendance is not mandatory. The TAs were very active on Piazza and answered all questions promptly.
+One thing to note is that he made exams harder this semester. You can still get A’s on all of them if you follow the study guide Nelson posts before every exam. On the downside, sometimes, he explains topics on a very superficial level or goes on tangents, making it harder to understand content.
+Overall, I highly recommend CMSC335 with Nelson, as it is a fun, manageable class that teaches you really useful content.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+As other reviews had stated, pretty good on the workload and the way the exams are similar, no curveballs. The projects all have bread crumbs so it's 80 percent copy and paste and 20 percent work. If anything his TAs are pretty decent and care easy to reach.
+
+[Professor: Nelson Padua-Perez | Course: n/a]
+Pretty great class!! Nelson gives you all the materials to set you up for success tbh. I love how the final project is really up to you as you create your own application based on the skills you learn, which is super applicable. I wish react was incorporated into the class more, but he discusses it at the very end after exam 3 (not as motivating!). Otherwise, very easy A.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+This class is honestly a joke. You really don’t need to go to lecture at all because you can teach yourself everything. Each project took me maybe 2–3 hours max, and for the exams, you just need to study the day before. And by “study,” I mean memorize the format of the previous exams.
+I'm giving Nelson a 3 because he doesn’t seem very invested in what he’s teaching and tends to go off-topic a lot (another reason I skipped lectures. I didn’t feel like I learned much from them).
+I took this class alongside 330 and 351, and it wasn’t too much work overall.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+I also took 216 with Nelson and have never really been a fan of his teaching style. I just find it easy to become disengaged with how often he goes off topic. However, he's an extremely kind professor who cares a lot about his students. This class in specific is extremely easy to get an A in as long as you make sure you follow the instructions for all projects and set aside a day or 2 to "study" for the exams (just memorize the format). I attended a few lectures at the beginning of the semester but decided it wasn't necessary and was still able to get an A pretty easily. I'm personally not that interested in web dev but I did want to learn a basic overview and this class provided just that. Overall, I would recommend this class if you're interested in web dev or simply looking for an easy A.
+
+[Professor: Nelson Padua-Perez | Course: CMSC106]
+The best professor that I have never met before. I ve got some mental health issue this semester. He told me don't be worried, my is the most important thing，he invited me to his office hour just went to have a talk with me trying to help me to be not that stressfull.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Nelson as a person is great, but I’ve always he’d the belief that you retain little to no information through his courses, and that he gets majority 5 star reviews due to the fact that his classes and exams are so easy to pass. This problem is exacerbated in 335, which is a course that needs to be destroyed by the computer science department and rebuilt from the ground up. Easy A, bad class.
+
+[Professor: Nelson Padua-Perez | Course: CMSC106]
+No final. The first exam and two quizzes are easy, just copy and paste from the practice. After that, the course definitely gets challenging. Nothing is explained during the lecture, and the pace is too fast, so you have to learn it all by yourself. If you already know how to code, this course might be fine, but if you are a complete beginner, take it if you're willing to put in the work.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+The Professor is really nice and funny at times. Attending lectures is not required, and lecture recordings are posted online. For exam preparation, he provides a folder of previous exams for practice, which greatly helps, as it is very similar to the actual exam. The projects are pretty simple and basically require copying and pasting code from the lecture example. There is no final exam, but a group project. Overall, the course is very easy to take and get an A in. If the projects allowed for some flexibility and were more engaging it would have been nice, as I felt like the content really didn't stick with me. Also, since most of the people did not attend lecture, making this class fully online for future semesters could be something to consider.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+You probably know the drill about Nelson by now. He's a funny dude who is a great lecturer.. when he stays on topic and isn't making crude or inappropriate jokes.
+I was surprised by how much I learned from this class. I feel more knowledgeable about JavaScript and different web frameworks as a whole.
+You don't need to go to lectures. Exams are copy paste from the semester before.
+I won't detract stars from Nelson for this, but his grading TAs are a pain to deal with.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Great class to learn about web servers, javascript, node.js, html/css. You will be able to create simple interactive web pages after this class and host them on a server.
+Nelsons really very funny guy he will always find a way to make school less stressful and sad (so competitive these days) at the same time you can tell how longs he been teaching because hes very knowledgeable and eager to give his many years of teachings knowledge to his students. Exams are carbon copies of previous exams just do the old ones and your fine. This is a great easy A that you should take if you don't already know how the web works.
+
+[Professor: Nelson Padua-Perez | Course: CMSC106]
+Best prof I've ever had, he explained almost everything you need to know for the course during lecture and I found it pretty easy to understand. Never went to the discussion and I didn't miss anything because of it. All due dates and in-class work is known from day 1. I'm not going to take a coding class again if I can help it but if I have to it better be with Nelson.
+
+[Professor: Nelson Padua-Perez | Course: CMSC335]
+Went to the class first two times and he was like why are you here. Only showed up to class for the midterms after that. Midterms are copy paste from past semester with slight changes. Projects are pretty easy and somewhat fun but overall the class is what you make of it.
