@@ -11,7 +11,9 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
----
+My domain is student reviews of Computer Science professors at the University of Maryland (UMD).UMD's CS program is ranked among the top 10 in the country, but I feel that ranking is driven largely by the school's strong industry connections and the volume of internships students land at major tech companies — not necessarily by how effectively individual professors teach. That gap is exactly what makes this domain valuable: official sources (the department website, course catalogs, the program's national ranking) tell you nothing about what it's actually like to take a class with a given professor.
+
+The information students really want, which professors explain concepts clearly, how hard the exams are, whether a section is worth taking, lives in scattered places such as PlanetTerp reviews, RateMyProfessors ratings, and Reddit threads on r/UMD. It's opinion-heavy, inconsistent, and spread across multiple platforms, so there's no single place to get a straight answer. A retrieval system that pulls these reviews together to answer specific questions about UMD CS professors fills the gap.
 
 ## Documents
 
@@ -20,16 +22,18 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reddit (r/UMD) | Open discussion thread on overall quality of UMD professors; candid, conversational perspective | https://www.reddit.com/r/UMD/comments/lnvc65/quality_of_professors/ |
+| 2 | PlanetTerp — CMSC131 | Student reviews + grade data for intro programming (course-level subtopic) | https://planetterp.com/course/CMSC131/reviews |
+| 3 | PlanetTerp — CMSC132 | Reviews for Object-Oriented Programming II; section-by-section comparisons | https://planetterp.com/course/CMSC132/reviews |
+| 4 | PlanetTerp — CMSC216 | Reviews for Intro to Computer Systems | https://planetterp.com/course/CMSC216/reviews |
+| 5 | PlanetTerp — CMSC250 | Reviews for Discrete Structures | https://planetterp.com/course/CMSC250/reviews |
+| 6 | PlanetTerp — CMSC330 | Reviews for Organization of Programming Languages | https://planetterp.com/course/CMSC330/reviews |
+| 7 | PlanetTerp — CMSC351 | Reviews for Algorithms | https://planetterp.com/course/CMSC351/reviews |
+| 8 | PlanetTerp — Nelson Padua-Perez | Per-professor review page; many reviews across his courses | https://planetterp.com/professor/padua-perez |
+| 9 | PlanetTerp — Clyde Kruskal | Per-professor review page (algorithms) | https://planetterp.com/professor/kruskal |
+| 10 | PlanetTerp — Anwar Mamat | Per-professor review page (CMSC330) | https://planetterp.com/professor/mamat |
+| 11 | RateMyProfessors — UMD CS faculty search | Different platform/perspective; ratings + tags + free-text reviews | https://www.ratemyprofessors.com/search/professors/1270?q=*&did=11 |
+| 12 | RateMyProfessors — Nelson Padua-Perez | Same professor as #8 on a different platform — lets you compare perspectives/agreement | https://www.ratemyprofessors.com/professor/268534 |
 
 ---
 
