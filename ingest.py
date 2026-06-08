@@ -214,14 +214,27 @@ def write_clean_documents(reviews: list[dict]) -> None:
 # =============================================================================
 # 3. CHUNK
 # =============================================================================
+MIN_TAIL = 150  # never leave a trailing fragment smaller than this many chars
+
+
 def split_long(text: str, size: int, overlap: int) -> list[str]:
-    """Split text longer than `size` into overlapping windows (rare case)."""
+    """Split text longer than `size` into overlapping windows (rare case).
+
+    If the remaining text would leave a tiny tail (smaller than MIN_TAIL), it is
+    folded into the current piece instead of becoming its own chunk. Otherwise a
+    long review could produce a meaningless fragment like "esources." that has no
+    standalone meaning and cannot be matched to any query.
+    """
     if len(text) <= size:
         return [text]
-    pieces, start = [], 0
+    pieces, start, step = [], 0, size - overlap
     while start < len(text):
+        # If a full-size window would leave a tiny tail, take the rest now.
+        if len(text) - start <= size + MIN_TAIL:
+            pieces.append(text[start:])
+            break
         pieces.append(text[start : start + size])
-        start += size - overlap
+        start += step
     return pieces
 
 
