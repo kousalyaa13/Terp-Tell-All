@@ -131,6 +131,7 @@ def retrieve(query: str, k: int = DEFAULT_K) -> list[dict]:
                 "text": doc,
                 "distance": dist,
                 "source": meta["source"],
+                "source_url": meta.get("source_url", ""),
                 "professor": meta["professor"],
                 "course": meta["course"],
                 "position_in_source": meta["position_in_source"],
