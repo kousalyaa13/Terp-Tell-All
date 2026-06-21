@@ -1,4 +1,4 @@
-# Terp-Tell_All
+# Terp-Tell-All
 
 A retrieval-augmented question answering system over student reviews of
 Computer Science professors at the University of Maryland (UMD).
