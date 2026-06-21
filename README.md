@@ -1,4 +1,4 @@
-# The Unofficial Guide — Project 1
+# Terp-Tell_All
 
 A retrieval-augmented question answering system over student reviews of
 Computer Science professors at the University of Maryland (UMD).
